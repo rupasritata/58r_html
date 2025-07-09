@@ -1,0 +1,42 @@
+ELEMENT : THE CONTENT BETWEEN OPENING TAG AND CLOSING TAG .
+<!doctype html>
+<html>
+     <head>
+     <title>ELEMENTS</title>
+     </head>
+     <body>
+     <h1> Hai </h1
+     <span></span>
+     <PRE> GRADUATION      COLLEGE    CGPA     YEAR
+           INTER 
+            SSC
+     </PRE>
+     </body>
+
+
+</html>
+<!---- Formatting tags---->
+
+<strong></strong><!--- Used for blind for hearing the text we given--->
+<mark><mark> for highlighting
+<del></del>
+ for Italian
+<em> </em>
+
+assignment :
+ RESUME
+NAME :USERNAME
+EMAIL : USER@GMAIL.COM
+**PHONE:**XXXXXXXXX
+LINKEDIN              GIT
+
+OBJECTIVE :
+
+
+EDUCATION :
+
+SKILLS :
+
+
+GITHUB
+
