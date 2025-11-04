@@ -1,0 +1,9 @@
+
+
+
+console.log("This is External JavaScript");
+
+
+
+
+
